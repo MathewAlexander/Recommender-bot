@@ -1,0 +1,87 @@
+%YAML 1.1
+---
+actions:
+- utter_name
+- utter_thanks
+- utter_greet
+- utter_goodbye
+- utter_perfume_desc
+- utter_ask_perf_price
+- utter_ask_accord
+- action_perf_suggestion
+config:
+  store_entities_as_slots: true
+entities:
+- name
+- accord
+- gender
+- time
+- price_above
+- price_below
+- price_range
+intents:
+- greet:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- thanks:
+    use_entities: true
+- deny:
+    use_entities: true
+- joke:
+    use_entities: true
+- name:
+    use_entities: true
+- rec_perfume:
+    use_entities: true
+- price_perfume:
+    use_entities: true
+- accord_perfume:
+    use_entities: true
+slots:
+  accord:
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - floral
+    - woody
+    - leather
+    - fruity
+    - aromatic
+    - citrus
+    - spicy
+    - sweet
+  gender:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  name:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  price_above:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  price_below:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  price_range:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  time:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_ask_accord:
+  - text: What is the flavour or type of perfume ?
+  utter_ask_perf_price:
+  - text: Please describe the price range
+  utter_goodbye:
+  - text: Talk to you later!
+  utter_greet:
+  - text: Nice to you meet you {name}. How can I help?
+  utter_name:
+  - text: Hey there! Tell me your name.
+  utter_perfume_desc:
+  - text: 'above {price_above} and below {price_below} or in price range of  {price_range}
+      with {accord} flavour right ? '
+  utter_thanks:
+  - text: My pleasure.

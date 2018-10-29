@@ -1,0 +1,2505 @@
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hello'
+b'Good'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hi'
+b'Good'
+b'Wait'
+b'hi'
+b'good'
+b'ok'
+b'bye'
+b'hi'
+b'great'
+b'sad'
+b'hi'
+b'sad'
+b'yes'
+b'hi'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'Sad'
+b'No'
+b'wait'
+b'wef'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'sad'
+b'no'
+b'mathew'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI'
+b'super sad'
+b'no'
+b'my name is Don'
+b'HI'
+b'Hello'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hi'
+b'not good'
+b'no'
+b'matew here'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'sad'
+b'no'
+b'mathew here'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI'
+b'sad'
+b'no'
+b'mathew here'
+b'hi'
+b'hello'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI'
+b'Bad'
+b'no'
+b'My name is mathew'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI'
+b'My name is mathew'
+b'hi'
+b'Mathew here'
+b'I am Mathew'
+b'h'
+b'No'
+b'HI'
+b'My name is Veena'
+b'HI'
+b'veena'
+b'i am veena'
+b'hi'
+b'veena here'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hi'
+b'Mathew here'
+b'hi'
+b'veena here'
+b'hello'
+b'veena'
+b'hi'
+b'my name is josh'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello there'
+b'My name is Appu'
+b'HI'
+b'my name is mathew'
+b'HI'
+b'shanid here'
+b'People call me mathew'
+b'people call me shanid'
+b'my name is shanid'
+b'hi'
+b'people call me shanid'
+b'hi'
+b'my name is shanid'
+b'hello there'
+b'shanid'
+b'hi'
+b'my name is veena'
+b'please call me linda'
+b'hi'
+b'linda is my name'
+b'Hi'
+b'my name is Ashiin'
+b'Hi'
+b'My name is Don'
+b'tell me a joke'
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_joke' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_joke' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Can you tell me a joke?'
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_joke' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_joke' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+b'HI'
+b'My name is mathew'
+b'Can you tell me a joke?'
+Encountered an exception while running action 'action_joke'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_joke' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_joke' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI'
+b'i am Pablo Escobar'
+b'I need a perfume'
+b'HI'
+b'My name is pablo'
+b'Suggest me a perfume'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello'
+b'My name is mathew'
+b'I need a perfume'
+b'I need a perfume within 5000 off woody accord for me to wear during night time'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI'
+b'My Name is Alberto'
+b'Suggest me a perfume'
+b'I need a perfume between 3000 and 7000 for men'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI there'
+b'I am Don'
+b'Help me find a perfume'
+b'perfume between 400 and 6000 for men of floral smell'
+b'Hi'
+b'hi'
+b'mathew'
+b'I need a perfume'
+b'Hello'
+b'I AM mathew'
+b'i need a perfume'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'my name is Pablo'
+b'i need a perfume'
+b'it should be between 5000 and 6000'
+b'hi'
+b'my name is Don'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI'
+b'My name is Harry'
+b'I need aperfume'
+b'it should be under 5000'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hello'
+b'My name is escobar'
+b'jhji'
+b'mathew here'
+b'hi'
+b'my name is Mathew'
+b'suggest me a perfume'
+b'price should be above 4000 and below 5000'
+b'hello'
+b'i am hans'
+b'hi'
+b'my name Hans'
+b'i need a perfume'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'my name is  Mathew'
+b'i need a perfume'
+b'it should be under 5000'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello'
+b'My name is mathew'
+b'I need a perfume'
+b'price should be between 4000 and 5000'
+b'Yes'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hi'
+b'my name is jacob'
+b'hi'
+b'my name id Jacob'
+b'i need a perfume'
+b'price range of 4000 rs'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello there'
+b'mathew'
+b'hi'
+b'my name is mathew'
+b'suggest me a perfume'
+b'it should be in the range of 5000'
+b'price shoulld be above 4000'
+b'wait'
+b'hello'
+b'mathew'
+b'i need a pefume'
+b'it should be within 5000'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello'
+b'My name is mathew'
+b'I am looking for a perfume'
+b'it should be in the range of 7000'
+b'ok'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello'
+b'i am Arnold'
+b'I need a perfume'
+b'it should be in the range of 5000'
+b'yes'
+b'My name is mathew'
+b'perfume'
+b'it should be between 300 and 700'
+b'hi'
+b'mathew'
+b'pefume'
+b'mathew'
+b'perfume'
+b'above 400'
+b'Hello'
+b'mathew here'
+b'i need  a perfume'
+b'7000'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'HI there'
+b'my name is mathew'
+b'i need a perfume'
+b'about 5000 rs'
+b'it should be of woody accord'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hello there'
+b'people calll me DOn'
+b'my name is Don'
+b'sorry my name is mathew'
+b'ohh i am Sanid'
+b'ok i am Mathew'
+b'i need a perfume'
+b'it should between 450 and 750'
+b'i need a woody smell'
+b'the price range in 4000'
+b'i need a woody smell'
+b'it should be in the range of 5000'
+b'i nned a perfume'
+b'i need a perfume'
+b'it should be fruity'
+b'fruity'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello'
+b'mathew is my name'
+b'my name is mathew'
+b'itn not none my name is Ashin'
+b'hep me find a perfume'
+b'5000'
+b'citrus'
+b'no citrus smell'
+b'i need a perfume'
+b'6'
+b'fruity smell'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hello'
+b'its mathew'
+b'i need a perfume'
+b'5000'
+b'woody'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+b'hello'
+b'mathew is my name'
+b'perfume'
+b'5000'
+b'fruity note'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+b'yes'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hlo'
+b'hello'
+b'mathew is my name'
+b'my name sis mathew not none'
+b'my naem is Mathew'
+b'i need a perfume'
+b'6000 to 9000'
+b'fruity'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'woody flavour'
+b'hello'
+b'mathew'
+b'pefume'
+b'5555'
+b'i need a pefume'
+b'mathew'
+b'I need a perfume'
+b'6666'
+b'woody'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hello'
+b'i am mathew'
+b'i need a perfume'
+b'between 300 and 4000'
+b'leather smell'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+b'fruity accord'
+b'my name is mathew'
+b'perfume'
+b'8888'
+b'woody smell'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hello there'
+b'i am Spartacus'
+b'i need a perfume'
+b'under 7000'
+b'woody'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+b'hello'
+b'mathew'
+b'i need a perfume'
+b'888'
+b'fruity'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'i am Darth vader'
+b'My name is Mike'
+b'find me a perfume'
+b'2000 to 5000'
+b'aromatic note'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+b'aromatic smell'
+b'2000 to 5000'
+b'mathew'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hello'
+b'iam mathew'
+b'i need perfume'
+b'77777 to 0000 in the range of 5000'
+b'floral'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+b'hello'
+b'i need a perfume'
+b'5555'
+b'floral accord'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'how are you'
+b'hi'
+b'my nam is mathew'
+b'i need perfume'
+b'555 to 7777'
+b'aromatic'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'mathew here'
+b'i am mathew'
+b'i need a perfume'
+b'4444'
+b'floral'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'str' object has no attribute 'request'
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 310, in run
+    response = self.action_endpoint.request(
+AttributeError: 'str' object has no attribute 'request'
+b'yes'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'hi'
+b'my name is mathew'
+b'i need a perfume'
+b'55555'
+b'floral'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'str' object has no attribute 'request'
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 310, in run
+    response = self.action_endpoint.request(
+AttributeError: 'str' object has no attribute 'request'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+b'Hi'
+b'i am mathew'
+b'i need a perfume'
+b'555 to 6660'
+b'floral'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+b'Hi there'
+b'I am mathew'
+b'i need a perfume'
+b'888 to 4000 in the range of 5000'
+b'woody'
+Failed to run custom action 'action_perf_suggestion'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to execute custom action.
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\adapters.py", line 440, in send
+    timeout=timeout
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\util\retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 311, in run
+    json=json, method="post", timeout=DEFAULT_REQUEST_TIMEOUT)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\utils.py", line 665, in request
+    **kwargs)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\adapters.py", line 490, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 323, in run
+    raise Exception("Failed to execute custom action.")
+Exception: Failed to execute custom action.
+b'I am mathew'
+b'I need  a perfume'
+b'555'
+b'leather'
+b'Ok cool'
+b'Hello'
+b'i am Shanid AK'
+b'my name is shanid'
+b'i need a perfume'
+b'5555'
+b'woody'
+b'my name i smathew'
+b'I am mathew'
+b'i need  a perfujme'
+b'between 700 and 4000'
+b'woody'
+Failed to run custom action 'action_perf_suggestion'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to execute custom action.
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 312, in run
+    response.raise_for_status()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\models.py", line 935, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 333, in run
+    raise Exception("Failed to execute custom action.")
+Exception: Failed to execute custom action.
+b'Hi'
+b'I am Mathew'
+b'I need a perfume'
+b'Something under 7000'
+b'leather'
+Failed to run custom action 'action_perf_suggestion'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to execute custom action.
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 312, in run
+    response.raise_for_status()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\models.py", line 935, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 333, in run
+    raise Exception("Failed to execute custom action.")
+Exception: Failed to execute custom action.
+b'I need a perfume'
+b'soemthing under 6000'
+b'floral'
+Failed to run custom action 'action_perf_suggestion'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to execute custom action.
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 312, in run
+    response.raise_for_status()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\models.py", line 935, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 333, in run
+    raise Exception("Failed to execute custom action.")
+Exception: Failed to execute custom action.
+b'I neeed a pefume'
+b'no wait'
+b'my name is mathew'
+b'i need a perfumwe'
+b'55555'
+b'woody'
+b'Hello there'
+b'i need a perfume'
+b'above 400 and'
+b'woody accord'
+b'Woody accord'
+b'i need a pefume'
+b'Mathew'
+b'i need a perfume'
+b'55555'
+b'leather accord'
+b'I need a pefume'
+b'within 30000'
+b'Woody'
+Failed to run custom action 'action_perf_suggestion'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to execute custom action.
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 312, in run
+    response.raise_for_status()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\models.py", line 935, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 333, in run
+    raise Exception("Failed to execute custom action.")
+Exception: Failed to execute custom action.
+b'Hello'
+b'i need a perfume'
+b'4444'
+b'woody'
+b'Woody accord'
+b'price 4000'
+b'woody'
+Failed to run custom action 'action_perf_suggestion'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to execute custom action.
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 312, in run
+    response.raise_for_status()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\requests\models.py", line 935, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 333, in run
+    raise Exception("Failed to execute custom action.")
+Exception: Failed to execute custom action.
+b'66666'
+b'price 4000'
+b'woody accord'
+b'I need a perfume'
+b'My name is mathew'
+b'I am Mathew'
+b'Price in between 300 and 60000'
+b'Hello'
+b'Hi'
+b'My name is Fitha'
+b'Suggest me a good perfume'
+b'in the range of 4000'
+b'leather'
+b'price under 5000'
+b'price under 500000'
+b'Woody accord'
+b'above 300 and below 500000'
+b'Floral'
+b'above 300 and below 500000'
+b'citrus'
+b'above 300 and below 500000'
+b'citrus accord or smell'
+b'Floarl accord'
+b'above 300 and below 500000'
+b'fruity smell'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+b'How you doing?'
+b'Hello'
+b'I need a perfume'
+b'i am mathew'
+b'What are some good perfumes'
+b'400 to 3000'
+b'Aromatic'
+b'Aromatic accord'
+b'4000 to 7000'
+b'Aromatic smell'
+b'400 to 70000'
+b'Aromatic accord aromatic smell'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa process starting
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+b'Hello'
+b'Hello'
+b'HI'
+b'Hell there'
+b'i am mathew'
+b'Hello there'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Exception on /webhooks/rest/webhook [POST]
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\channels\channel.py", line 336, in receive
+    input_channel=self.name()))
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\agent.py", line 305, in handle_message
+    return processor.handle_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 77, in handle_message
+    tracker = self.log_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 123, in log_message
+    self._handle_message_with_tracker(message, tracker)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 256, in _handle_message_with_tracker
+    parse_data = self._parse_message(message)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 232, in _parse_message
+    if (message.text.startswith(INTENT_MESSAGE_PREFIX) or
+AttributeError: 'NoneType' object has no attribute 'startswith'
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_perf_suggestion'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Traceback (most recent call last):
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\processor.py", line 338, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_core\actions\action.py", line 305, in run
+    "".format(self.name(), DOCS_BASE_URL))
+Exception: The model predicted the custom action 'action_perf_suggestion' but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration. https://rasa.com/docs/core/customactions/
+Rasa process starting
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Pool size changed, may indicate binary incompatibility. Expected 48 from C header, got 64 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\importlib\_bootstrap.py:219: RuntimeWarning: cymem.cymem.Address size changed, may indicate binary incompatibility. Expected 24 from C header, got 40 from PyObject
+  return f(*args, **kwds)
+
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\rasa_nlu\extractors\entity_synonyms.py:85: UserWarning: Failed to load synonyms file from 'models/current/nlu\entity_synonyms.json'
+  "".format(entity_synonyms_file))
+
+Restoring parameters from models/current/nlu\intent_classifier_tensorflow_embedding.ckpt
+C:\Users\mathew.alexander\AppData\Local\Continuum\anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Rasa Core server is up and running on http://localhost:5005

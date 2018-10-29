@@ -1,0 +1,84 @@
+intents:
+- greet
+- goodbye
+- thanks
+- deny
+- joke
+- name
+- rec_perfume
+- price_perfume
+- accord_perfume
+
+
+entities:
+- name
+- accord
+- gender
+- time
+- price_above
+- price_below
+- price_range
+
+
+
+
+slots:
+  name:
+    type: text
+  gender:
+    type: text
+  accord:
+    type: categorical
+    values:
+      - floral
+      - woody
+      - leather
+      - fruity
+      - aromatic
+      - citrus
+      - spicy
+      - sweet
+  price_below:
+    type: text
+  price_above:
+    type: text
+  time:
+    type: text
+  price_range:
+    type: text
+
+
+actions:
+- utter_name
+- utter_thanks
+- utter_greet
+- utter_goodbye
+- utter_perfume_desc
+- utter_ask_perf_price
+- utter_ask_accord
+- action_perf_suggestion
+
+
+templates:
+  utter_name:
+  - text: "Hey there! Tell me your name."
+
+  utter_greet:
+  - text: "Nice to you meet you {name}. How can I help?"
+
+  utter_goodbye:
+  - text: "Talk to you later!"
+  
+  utter_thanks:
+  - text: "My pleasure."
+
+  utter_ask_perf_price:
+  - text: "Please describe the price range"
+
+  utter_perfume_desc:
+  - text: "above {price_above} and below {price_below} or in price range of  {price_range} with {accord} flavour right ? "
+
+  utter_ask_accord:
+  - text: "What is the flavour or type of perfume ?" 
+
+  

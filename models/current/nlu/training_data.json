@@ -1,0 +1,1243 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "bye",
+        "text": "Bye"
+      },
+      {
+        "intent": "bye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "See you later"
+      },
+      {
+        "intent": "bye",
+        "text": "Bye bot"
+      },
+      {
+        "intent": "bye",
+        "text": "Goodbye friend"
+      },
+      {
+        "intent": "bye",
+        "text": "bye"
+      },
+      {
+        "intent": "bye",
+        "text": "bye for now"
+      },
+      {
+        "intent": "bye",
+        "text": "catch you later"
+      },
+      {
+        "intent": "bye",
+        "text": "gotta go"
+      },
+      {
+        "intent": "bye",
+        "text": "See you"
+      },
+      {
+        "intent": "bye",
+        "text": "goodnight"
+      },
+      {
+        "intent": "bye",
+        "text": "have a nice day"
+      },
+      {
+        "intent": "bye",
+        "text": "i'm off"
+      },
+      {
+        "intent": "bye",
+        "text": "see you later alligator"
+      },
+      {
+        "intent": "bye",
+        "text": "we'll speak soon"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "hi again"
+      },
+      {
+        "intent": "greet",
+        "text": "hi folks"
+      },
+      {
+        "intent": "greet",
+        "text": "hi Mister"
+      },
+      {
+        "intent": "greet",
+        "text": "hi pal!"
+      },
+      {
+        "intent": "greet",
+        "text": "hi there"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "intent": "greet",
+        "text": "hello everybody"
+      },
+      {
+        "intent": "greet",
+        "text": "hello is anybody there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello robot"
+      },
+      {
+        "intent": "thank",
+        "text": "Thanks"
+      },
+      {
+        "intent": "thank",
+        "text": "Thank you"
+      },
+      {
+        "intent": "thank",
+        "text": "Thank you so much"
+      },
+      {
+        "intent": "thank",
+        "text": "Thanks bot"
+      },
+      {
+        "intent": "thank",
+        "text": "Thanks for that"
+      },
+      {
+        "intent": "thank",
+        "text": "cheers"
+      },
+      {
+        "intent": "thank",
+        "text": "cheers bro"
+      },
+      {
+        "intent": "thank",
+        "text": "ok thanks!"
+      },
+      {
+        "intent": "thank",
+        "text": "perfect thank you"
+      },
+      {
+        "intent": "thank",
+        "text": "thanks a bunch for everything"
+      },
+      {
+        "intent": "thank",
+        "text": "thanks for the help"
+      },
+      {
+        "intent": "thank",
+        "text": "thanks a lot"
+      },
+      {
+        "intent": "thank",
+        "text": "amazing, thanks"
+      },
+      {
+        "intent": "thank",
+        "text": "cool, thanks"
+      },
+      {
+        "intent": "thank",
+        "text": "cool thank you"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "absolutely"
+      },
+      {
+        "intent": "affirm",
+        "text": "for sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes yes yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "definitely"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "Juste",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is Juste"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 9,
+            "value": "Josh",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Josh"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "Lucy",
+            "entity": "name"
+          }
+        ],
+        "text": "I'm Lucy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 19,
+            "value": "Greg",
+            "entity": "name"
+          }
+        ],
+        "text": "People call me Greg"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "David",
+            "entity": "name"
+          }
+        ],
+        "text": "It's David"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "Amy",
+            "entity": "name"
+          }
+        ],
+        "text": "Usually people call me Amy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "John",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is John"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "Sam",
+            "entity": "name"
+          }
+        ],
+        "text": "You can call me Sam"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 20,
+            "value": "Linda",
+            "entity": "name"
+          }
+        ],
+        "text": "Please call me Linda"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 13,
+            "end": 16,
+            "value": "Tom",
+            "entity": "name"
+          }
+        ],
+        "text": "Name name is Tom"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Richard",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Richard"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 4,
+            "end": 9,
+            "value": "Tracy",
+            "entity": "name"
+          }
+        ],
+        "text": "I'm Tracy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "Sally",
+            "entity": "name"
+          }
+        ],
+        "text": "Call me Sally"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Philipp",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Philipp"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Charlie",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Charlie"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "Shanid",
+            "entity": "name"
+          }
+        ],
+        "text": "my name is Shanid"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 21,
+            "value": "Shanid",
+            "entity": "name"
+          }
+        ],
+        "text": "people call me Shanid"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Mathew",
+            "entity": "name"
+          }
+        ],
+        "text": "Mathew here"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "Nihal",
+            "entity": "name"
+          }
+        ],
+        "text": "i am Nihal"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "Shanid",
+            "entity": "name"
+          }
+        ],
+        "text": "it's me Shanid"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "Devadath",
+            "entity": "name"
+          }
+        ],
+        "text": "this is Devadath"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "juste",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is juste"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 9,
+            "value": "josh",
+            "entity": "name"
+          }
+        ],
+        "text": "I am josh"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "lucy",
+            "entity": "name"
+          }
+        ],
+        "text": "I'm lucy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 19,
+            "value": "greg",
+            "entity": "name"
+          }
+        ],
+        "text": "People call me greg"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "david",
+            "entity": "name"
+          }
+        ],
+        "text": "It's david"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "amy",
+            "entity": "name"
+          }
+        ],
+        "text": "Usually people call me amy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "john",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is john"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "sam",
+            "entity": "name"
+          }
+        ],
+        "text": "You can call me sam"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 20,
+            "value": "linda",
+            "entity": "name"
+          }
+        ],
+        "text": "Please call me linda"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 13,
+            "end": 16,
+            "value": "tom",
+            "entity": "name"
+          }
+        ],
+        "text": "Name name is tom"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "richard",
+            "entity": "name"
+          }
+        ],
+        "text": "I am richard"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 4,
+            "end": 9,
+            "value": "tracy",
+            "entity": "name"
+          }
+        ],
+        "text": "I'm tracy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "sally",
+            "entity": "name"
+          }
+        ],
+        "text": "Call me sally"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "philipp",
+            "entity": "name"
+          }
+        ],
+        "text": "I am philipp"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "charlie",
+            "entity": "name"
+          }
+        ],
+        "text": "I am charlie"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Rafi",
+            "entity": "name"
+          }
+        ],
+        "text": "Rafi"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "fitha",
+            "entity": "name"
+          }
+        ],
+        "text": "fitha"
+      },
+      {
+        "intent": "joke",
+        "text": "Can you tell me a joke?"
+      },
+      {
+        "intent": "joke",
+        "text": "I would like to hear a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "Tell me a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "A joke please"
+      },
+      {
+        "intent": "joke",
+        "text": "Tell me a joke please"
+      },
+      {
+        "intent": "joke",
+        "text": "I would like to hear a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "I would loke to hear a joke, please"
+      },
+      {
+        "intent": "joke",
+        "text": "Can you tell jokes?"
+      },
+      {
+        "intent": "joke",
+        "text": "Please tell me a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "I need to hear a joke"
+      },
+      {
+        "intent": "rec_perfume",
+        "text": "Suggest me a perfume"
+      },
+      {
+        "intent": "rec_perfume",
+        "text": "i need a perfume"
+      },
+      {
+        "intent": "rec_perfume",
+        "text": "i want a perfume"
+      },
+      {
+        "intent": "rec_perfume",
+        "text": "please suggest me a perfume"
+      },
+      {
+        "intent": "rec_perfume",
+        "text": "what are some good perfumes"
+      },
+      {
+        "intent": "rec_perfume",
+        "text": "i want you to suggest me a perfume"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "7000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "it should  within 7000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "5000",
+            "entity": "price_above"
+          }
+        ],
+        "text": "it should above 5000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "3000",
+            "entity": "price_above"
+          },
+          {
+            "start": 27,
+            "end": 31,
+            "value": "4000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "a perfume between 3000 and 4000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "2000",
+            "entity": "price_above"
+          },
+          {
+            "start": 27,
+            "end": 31,
+            "value": "7000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "a perfume between 2000 and 7000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 23,
+            "end": 27,
+            "value": "3000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "i need a perfume under 3000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 19,
+            "end": 23,
+            "value": "4000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "it should be under 4000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 26,
+            "end": 30,
+            "value": "5000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "the price should be below 5000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 26,
+            "end": 30,
+            "value": "3000",
+            "entity": "price_above"
+          }
+        ],
+        "text": "the price should be above 3000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "3000",
+            "entity": "price_above"
+          }
+        ],
+        "text": "pice above 3000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "4000",
+            "entity": "price_above"
+          },
+          {
+            "start": 33,
+            "end": 37,
+            "value": "5000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "price should be between 4000 and 5000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "5000",
+            "entity": "price_range"
+          }
+        ],
+        "text": "5000 range"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 29,
+            "end": 33,
+            "value": "7000",
+            "entity": "price_range"
+          }
+        ],
+        "text": "it should be in the range of 7000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "3000",
+            "entity": "price_range"
+          }
+        ],
+        "text": "it should be in 3000 range"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "3000",
+            "entity": "price_range"
+          }
+        ],
+        "text": "perfume in 3000 range"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "400",
+            "entity": "price_range"
+          }
+        ],
+        "text": "perfume of 400"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "5000",
+            "entity": "price_range"
+          }
+        ],
+        "text": "perfume of 5000 rs"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "5000",
+            "entity": "price_range"
+          }
+        ],
+        "text": "perfume of 5000 rupees"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "3500",
+            "entity": "price_range"
+          }
+        ],
+        "text": "3500 rupees"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "3500",
+            "entity": "price_range"
+          }
+        ],
+        "text": "3500 rs"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "5000",
+            "entity": "price_range"
+          }
+        ],
+        "text": "5000"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 15,
+            "end": 20,
+            "value": "woody",
+            "entity": "accord"
+          }
+        ],
+        "text": "A perfume with woody smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 16,
+            "end": 22,
+            "value": "floral",
+            "entity": "accord"
+          }
+        ],
+        "text": "a perfume  with floral note"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "woody",
+            "entity": "accord"
+          }
+        ],
+        "text": "suggest me a perfume with woody"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "floral",
+            "entity": "accord"
+          }
+        ],
+        "text": "floral smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "woody",
+            "entity": "accord"
+          }
+        ],
+        "text": "woody smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "woody",
+            "entity": "accord"
+          }
+        ],
+        "text": "woody note"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "fruity",
+            "entity": "accord"
+          }
+        ],
+        "text": "fruity smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 9,
+            "end": 14,
+            "value": "spicy",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need a spicy perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 9,
+            "end": 14,
+            "value": "woody",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need a woody perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "fruity",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need a fruity perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "floral",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need a floral perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "citrus",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need a citrus perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 9,
+            "end": 16,
+            "value": "leather",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need a leather perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "aromatic",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need an aromatic perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 9,
+            "end": 14,
+            "value": "sweet",
+            "entity": "accord"
+          }
+        ],
+        "text": "i need a sweet perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 13,
+            "end": 18,
+            "value": "sweet",
+            "entity": "accord"
+          }
+        ],
+        "text": "a perfume of sweet smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "fruity",
+            "entity": "accord"
+          }
+        ],
+        "text": "fruity"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "woody",
+            "entity": "accord"
+          }
+        ],
+        "text": "woody"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "woody",
+            "entity": "accord"
+          }
+        ],
+        "text": "woody smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "floral",
+            "entity": "accord"
+          }
+        ],
+        "text": "floral smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "citrus",
+            "entity": "accord"
+          }
+        ],
+        "text": "citrus smell"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
