@@ -9,6 +9,7 @@ actions:
 - utter_ask_perf_price
 - utter_ask_accord
 - action_perf_suggestion
+- utter_feedback_suggestion
 config:
   store_entities_as_slots: true
 entities:
@@ -37,6 +38,10 @@ intents:
 - price_perfume:
     use_entities: true
 - accord_perfume:
+    use_entities: true
+- like_suggestion:
+    use_entities: true
+- dislike_suggestion:
     use_entities: true
 slots:
   accord:
@@ -74,6 +79,8 @@ templates:
   - text: What is the flavour or type of perfume ?
   utter_ask_perf_price:
   - text: Please describe the price range
+  utter_feedback_suggestion:
+  - text: Are you satisfied with the results ?
   utter_goodbye:
   - text: Talk to you later!
   utter_greet:

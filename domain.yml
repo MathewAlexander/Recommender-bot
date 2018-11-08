@@ -8,6 +8,8 @@ intents:
 - rec_perfume
 - price_perfume
 - accord_perfume
+- like_suggestion
+- dislike_suggestion
 
 
 entities:
@@ -57,6 +59,7 @@ actions:
 - utter_ask_perf_price
 - utter_ask_accord
 - action_perf_suggestion
+- utter_feedback_suggestion
 
 
 templates:
@@ -80,5 +83,7 @@ templates:
 
   utter_ask_accord:
   - text: "What is the flavour or type of perfume ?" 
+  utter_feedback_suggestion:
+  - text: "Are you satisfied with the results ?"
 
   

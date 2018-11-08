@@ -1234,6 +1234,66 @@
           }
         ],
         "text": "citrus smell"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "Yes"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "yes"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "it's Ok"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "seems good"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "ok"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "Wonderfull"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "yes i am"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "awesome"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "cool"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "No"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "no"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "aweful"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "very bad"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "not at all"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "Not a good suggestion"
       }
     ],
     "regex_features": [],

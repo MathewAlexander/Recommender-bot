@@ -2,9 +2,11 @@
   "states": [
     "intent_accord_perfume",
     "intent_deny",
+    "intent_dislike_suggestion",
     "intent_goodbye",
     "intent_greet",
     "intent_joke",
+    "intent_like_suggestion",
     "intent_name",
     "intent_price_perfume",
     "intent_rec_perfume",
@@ -40,6 +42,7 @@
     "prev_utter_perfume_desc",
     "prev_utter_ask_perf_price",
     "prev_utter_ask_accord",
-    "prev_action_perf_suggestion"
+    "prev_action_perf_suggestion",
+    "prev_utter_feedback_suggestion"
   ]
 }

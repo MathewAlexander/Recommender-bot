@@ -2,26 +2,23 @@
   "action_fingerprints": {
     "action_listen": {
       "slots": [
-        "price_range",
-        "accord",
         "price_above",
+        "price_range",
         "price_below",
+        "accord",
         "name"
       ]
     },
-    "utter_greet": {
+    "utter_goodbye": {
       "slots": []
     },
-    "utter_goodbye": {
+    "utter_greet": {
       "slots": []
     },
     "utter_name": {
       "slots": []
     },
     "utter_thanks": {
-      "slots": []
-    },
-    "action_perf_suggestion": {
       "slots": []
     }
   },

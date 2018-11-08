@@ -166,5 +166,22 @@
 - [floral](accord) smell
 - [citrus](accord) smell
 
+## like_suggestion
+- Yes
+- yes
+- it's Ok
+- seems good
+- ok
+- Wonderfull
+- yes i am 
+- awesome
+- cool
 
-
+## dislike_suggestion
+- No
+- no
+- aweful
+- very bad
+- not at all
+- Not a good suggestion
+- 
