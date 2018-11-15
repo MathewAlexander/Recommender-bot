@@ -771,6 +771,24 @@
         "intent": "price_perfume",
         "entities": [
           {
+            "start": 0,
+            "end": 4,
+            "value": "3000",
+            "entity": "price_above"
+          },
+          {
+            "start": 9,
+            "end": 13,
+            "value": "4000",
+            "entity": "price_below"
+          }
+        ],
+        "text": "3000 to  4000"
+      },
+      {
+        "intent": "price_perfume",
+        "entities": [
+          {
             "start": 18,
             "end": 22,
             "value": "2000",

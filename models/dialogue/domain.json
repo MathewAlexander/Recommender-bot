@@ -43,6 +43,7 @@
     "prev_utter_ask_perf_price",
     "prev_utter_ask_accord",
     "prev_action_perf_suggestion",
-    "prev_utter_feedback_suggestion"
+    "prev_utter_feedback_suggestion",
+    "prev_utter_additional_info"
   ]
 }

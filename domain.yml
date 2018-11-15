@@ -60,6 +60,7 @@ actions:
 - utter_ask_accord
 - action_perf_suggestion
 - utter_feedback_suggestion
+- utter_additional_info
 
 
 templates:
@@ -83,7 +84,25 @@ templates:
 
   utter_ask_accord:
   - text: "What is the flavour or type of perfume ?" 
+    buttons:
+    - title: "Woody"
+      payload: '/accord_perfume{"accord":"woody"}'
+    - title: "floral"
+      payload: '/accord_perfume{"accord": "floral"}'
+    - title: "leather"
+      payload: '/accord_perfume{"accord": "leather"}'
+    - title: "fruity"
+      payload: '/accord_perfume{"accord": "fruity"}'
+    - title: "aromatic"
+      payload: '/accord_perfume{"accord": "aromatic"}'
+    - title: "citrus"
+      payload: '/accord_perfume{"accord": "citrus"}'
+    - title: "spicy"
+      payload: '/accord_perfume{"accord": "spicy"}'
+    - title: "sweet"
+      payload: '/accord_perfume{"accord": "sweet"}'
   utter_feedback_suggestion:
   - text: "Are you satisfied with the results ?"
+
 
   

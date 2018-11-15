@@ -24,6 +24,7 @@
 * price_perfume{"price_above":"2000"} OR price_perfume{"price_below":"4000"} OR price_perfume{"price_above":2000,"price_below":4000} OR price_perfume{"price_range":"5000"}
  - utter_ask_accord
 * accord_perfume{"accord":"woody"}
+ - slot{"accord": "woody"}
  - action_perf_suggestion
  - utter_feedback_suggestion
 * like_suggestion
@@ -40,9 +41,10 @@
 * price_perfume{"price_above":"2000"} OR price_perfume{"price_below":"4000"} OR price_perfume{"price_above":2000,"price_below":4000} OR price_perfume{"price_range":"5000"}
  - utter_ask_accord
 * accord_perfume{"accord":"woody"}
+ - slot{"accord": "woody"}
  - action_perf_suggestion
  - utter_feedback_suggestion
 * dislike_suggestion
- -utter_greet
+ -utter_goodbye
 
 

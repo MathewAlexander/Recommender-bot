@@ -21,20 +21,31 @@ class ActionJoke(Action):
     def run(self, dispatcher, tracker, domain):
         # what your action should do
         df=pd.read_csv('perfumeRuleBased.csv')
-        joke ="I believe, whatever doesn't kill you, simply makes you...stranger."
+        df.reset_index(inplace=True)
+        
+        print(tracker.get_slot('accord'))
+        print(tracker.get_slot('price_above'))
+        print(tracker.get_slot('price_below'))
         try:
 
         	df=df.loc[df['predominant_accord'] == tracker.get_slot('accord')]
         except:
         	pass
-        # try:
-        # 	df=df.loc[df['Price_flipkart'] <= int(tracker.get_slot('price_above'))]
-        # except:
-        # 	pass
-        # try:
-        # 	df=df.loc[df['Price_flipkart'] >= int(tracker.get_slot('price_above'))]
-        # except:
-        # 	pass
+        try:
+            df=df.loc[df['Price_flipkart'] <= int(tracker.get_slot('price_range'))+1000]
+            df=df.loc[df['Price_flipkart'] >= int(tracker.get_slot('price_range'))-500]
+        except Exception as Err:
+            print(Err)
+        try:
+        	df=df.loc[df['Price_flipkart'] <= int(tracker.get_slot('price_below'))]
+        except Exception as Err:
+            print(Err)
+        try:
+        	df=df.loc[df['Price_flipkart'] >= int(tracker.get_slot('price_above'))]
+        except Exception as Err:
+        	print(Err)
+        
+
         try:
         	perfume=str(df['Perfume'])
         	print(perfume)

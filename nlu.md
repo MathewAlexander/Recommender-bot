@@ -125,6 +125,7 @@
 - it should  within [7000](price_below) 
 - it should above [5000](price_above)
 - a perfume between [3000](price_above) and [4000](price_below)
+- [3000](price_above) to  [4000](price_below)
 - a perfume between [2000](price_above) and [7000](price_below)
 - i need a perfume under [3000](price_below)
 - it should be under [4000](price_below)

@@ -10,6 +10,7 @@ actions:
 - utter_ask_accord
 - action_perf_suggestion
 - utter_feedback_suggestion
+- utter_additional_info
 config:
   store_entities_as_slots: true
 entities:
@@ -76,7 +77,24 @@ slots:
     type: rasa_core.slots.TextSlot
 templates:
   utter_ask_accord:
-  - text: What is the flavour or type of perfume ?
+  - buttons:
+    - payload: /accord_perfume{"accord":"woody"}
+      title: Woody
+    - payload: '/accord_perfume{"accord": "floral"}'
+      title: floral
+    - payload: '/accord_perfume{"accord": "leather"}'
+      title: leather
+    - payload: '/accord_perfume{"accord": "fruity"}'
+      title: fruity
+    - payload: '/accord_perfume{"accord": "aromatic"}'
+      title: aromatic
+    - payload: '/accord_perfume{"accord": "citrus"}'
+      title: citrus
+    - payload: '/accord_perfume{"accord": "spicy"}'
+      title: spicy
+    - payload: '/accord_perfume{"accord": "sweet"}'
+      title: sweet
+    text: What is the flavour or type of perfume ?
   utter_ask_perf_price:
   - text: Please describe the price range
   utter_feedback_suggestion:
