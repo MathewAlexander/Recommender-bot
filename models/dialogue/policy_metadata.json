@@ -2,20 +2,21 @@
   "action_fingerprints": {
     "action_listen": {
       "slots": [
-        "price_range",
-        "name",
-        "price_below",
+        "sillage",
         "price_above",
-        "accord"
+        "price_range",
+        "accord",
+        "price_below",
+        "name"
       ]
     },
-    "utter_goodbye": {
+    "utter_name": {
       "slots": []
     },
     "utter_thanks": {
       "slots": []
     },
-    "utter_name": {
+    "utter_goodbye": {
       "slots": []
     },
     "utter_greet": {

@@ -11,6 +11,7 @@ actions:
 - action_perf_suggestion
 - utter_feedback_suggestion
 - utter_additional_info
+- utter_ask_trail
 config:
   store_entities_as_slots: true
 entities:
@@ -72,6 +73,13 @@ slots:
   price_range:
     initial_value: null
     type: rasa_core.slots.TextSlot
+  sillage:
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - high
+    - medium
+    - low
   time:
     initial_value: null
     type: rasa_core.slots.TextSlot
@@ -97,6 +105,15 @@ templates:
     text: What is the flavour or type of perfume ?
   utter_ask_perf_price:
   - text: Please describe the price range
+  utter_ask_trail:
+  - buttons:
+    - payload: /silage_perfume{"sillage":"High"}
+      title: High
+    - payload: '/silage_perfume{"sillage": "Medium"}'
+      title: Medium
+    - payload: '/silage_perfume{"sillage": "Low"}'
+      title: Low
+    text: What about the trail left by the perfume ?
   utter_feedback_suggestion:
   - text: Are you satisfied with the results ?
   utter_goodbye:

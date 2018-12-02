@@ -31,6 +31,9 @@
     "slot_price_above_0",
     "slot_price_below_0",
     "slot_price_range_0",
+    "slot_sillage_0",
+    "slot_sillage_1",
+    "slot_sillage_2",
     "slot_time_0",
     "prev_action_listen",
     "prev_action_restart",
@@ -44,6 +47,7 @@
     "prev_utter_ask_accord",
     "prev_action_perf_suggestion",
     "prev_utter_feedback_suggestion",
-    "prev_utter_additional_info"
+    "prev_utter_additional_info",
+    "prev_utter_ask_trail"
   ]
 }

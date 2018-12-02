@@ -29,6 +29,13 @@ slots:
     type: text
   gender:
     type: text
+  sillage:
+    type: categorical
+    values:
+      - High
+      - Medium
+      - Low
+
   accord:
     type: categorical
     values:
@@ -61,6 +68,7 @@ actions:
 - action_perf_suggestion
 - utter_feedback_suggestion
 - utter_additional_info
+- utter_ask_trail
 
 
 templates:
@@ -103,6 +111,15 @@ templates:
       payload: '/accord_perfume{"accord": "sweet"}'
   utter_feedback_suggestion:
   - text: "Are you satisfied with the results ?"
+  utter_ask_trail:
+  - text: "What about the trail left by the perfume ?"
+    buttons:
+    - title: "High"
+      payload: '/silage_perfume{"sillage":"High"}'
+    - title: "Medium"
+      payload: '/silage_perfume{"sillage": "Medium"}'
+    - title: "Low"
+      payload: '/silage_perfume{"sillage": "Low"}'
 
 
   
