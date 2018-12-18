@@ -20,34 +20,47 @@ class ActionJoke(Action):
 
     def run(self, dispatcher, tracker, domain):
         # what your action should do
-        df=pd.read_csv('perfumeRuleBased.csv')
+        df=pd.read_csv('Perfume_data.csv')
         df.reset_index(inplace=True)
         
         print(tracker.get_slot('accord'))
         print(tracker.get_slot('price_above'))
         print(tracker.get_slot('price_below'))
+        print(tracker.get_slot('price_range'))
         try:
-
-        	df=df.loc[df['predominant_accord'] == tracker.get_slot('accord')]
+            df=df.loc[df['predominant_accord'] == tracker.get_slot('accord')]
+            print('accord')
+            print(df)
         except:
         	pass
         try:
-            df=df.loc[df['Price_flipkart'] <= int(tracker.get_slot('price_range'))+1000]
-            df=df.loc[df['Price_flipkart'] >= int(tracker.get_slot('price_range'))-500]
+            df=df.loc[df['Price'] <= int(tracker.get_slot('price_range'))+1000]
+            df=df.loc[df['Price'] >= int(tracker.get_slot('price_range'))-500]
+            print('range')
+            print(df)
         except Exception as Err:
             print(Err)
-        try:
-        	df=df.loc[df['Price_flipkart'] <= int(tracker.get_slot('price_below'))]
-        except Exception as Err:
-            print(Err)
-        try:
-        	df=df.loc[df['Price_flipkart'] >= int(tracker.get_slot('price_above'))]
-        except Exception as Err:
-        	print(Err)
+        if tracker.get_slot('price_range')==None:
+            try:
+                
+                df=df.loc[df['Price'] <= int(tracker.get_slot('price_below'))]
+                print('below')
+                print(df)
+            except Exception as Err:
+                print(Err)
+            try:
+                
+                df=df.loc[df['Price'] >= int(tracker.get_slot('price_above'))]
+                print('price_above')
+                print(df)
+            except Exception as Err:
+            	print(Err)
+
         
 
         try:
-        	perfume=str(df['Perfume'])
+        	perfume= str([i for i in df['Perfume']])
+            
         	print(perfume)
         	print(type(perfume))
         	dispatcher.utter_message(perfume)
