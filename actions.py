@@ -59,11 +59,11 @@ class ActionJoke(Action):
         
 
         try:
-        	perfume= str([i for i in df['Perfume']])
-            
-        	print(perfume)
-        	print(type(perfume))
-        	dispatcher.utter_message(perfume)
+            perfume= str([i for i in df['Perfume']])
+            perfume=perfume[1:len(perfume)-1]
+            print(perfume)
+            print(type(perfume))
+            dispatcher.utter_message(perfume)
         except Exception as err:
         	print(v)
         	
