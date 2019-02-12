@@ -662,6 +662,66 @@
         "text": "fitha"
       },
       {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "mathew",
+            "entity": "name"
+          }
+        ],
+        "text": "mathew"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "aparna",
+            "entity": "name"
+          }
+        ],
+        "text": "aparna"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "nemo",
+            "entity": "name"
+          }
+        ],
+        "text": "hi i am nemo"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "Nemo",
+            "entity": "name"
+          }
+        ],
+        "text": "Hi I am Nemo"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "tarzan",
+            "entity": "name"
+          }
+        ],
+        "text": "hello i am tarzan"
+      },
+      {
         "intent": "joke",
         "text": "Can you tell me a joke?"
       },
@@ -1255,6 +1315,42 @@
       },
       {
         "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "High",
+            "entity": "silage"
+          }
+        ],
+        "text": "it should be High"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "High",
+            "entity": "silage"
+          }
+        ],
+        "text": "High trail must be left by the perfume"
+      },
+      {
+        "intent": "accord_perfume",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "High",
+            "entity": "silage"
+          }
+        ],
+        "text": "it must be High"
+      },
+      {
+        "intent": "accord_perfume",
         "text": "Yes"
       },
       {
@@ -1312,6 +1408,50 @@
       {
         "intent": "accord_perfume",
         "text": "Not a good suggestion"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "Take a quiz"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "take a quiz"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "i will take a quiz"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "Quick Suggest"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "quick suggestion"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "Quick Suggestion"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "I need a perfume between 5000 and 7000 of woody accord"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "Yes i wanna try again"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "don't try again"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "don't want to try again"
+      },
+      {
+        "intent": "accord_perfume",
+        "text": "i don't want to try again"
       }
     ],
     "regex_features": [],

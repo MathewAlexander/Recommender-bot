@@ -101,6 +101,9 @@
 - [fitha](name)
 - [mathew](name)
 - [aparna](name)
+- hi i am [nemo](name)
+- Hi I am [Nemo](name)
+- hello i am [tarzan](name)
 
 
 ## intent:joke
@@ -169,6 +172,12 @@
 - [floral](accord) smell
 - [citrus](accord) smell
 
+## silage_perfume
+- it should be [High](silage)
+- [High](silage) trail must be left by the perfume
+- it must be [High](silage)
+
+
 ## like_suggestion
 - Yes
 - yes
@@ -188,4 +197,27 @@
 - not at all
 - Not a good suggestion
 
-## silage_perfume
+## take_a_quiz
+- Take a quiz
+- take a quiz
+- i will take a quiz 
+
+## quick_suggest
+- Quick Suggest
+- quick suggestion
+- Quick Suggestion
+
+## one_step_suggestion
+- I need a perfume between 5000 and 7000 of woody accord 
+
+## try_again
+- Yes i wanna try again
+
+## dont_try_again
+- don't try again
+- don't want to try again
+- i don't want to try again
+
+
+
+

@@ -2,38 +2,38 @@
   "action_fingerprints": {
     "action_listen": {
       "slots": [
+        "name",
         "sillage",
+        "price_below",
         "price_above",
         "price_range",
-        "accord",
-        "price_below",
-        "name"
+        "accord"
       ]
     },
-    "utter_name": {
-      "slots": []
-    },
-    "utter_thanks": {
+    "utter_suggestion_options": {
       "slots": []
     },
     "utter_goodbye": {
       "slots": []
     },
-    "utter_greet": {
+    "utter_name": {
       "slots": []
     }
   },
-  "rasa_core": "0.11.12",
-  "python": "3.6.6",
+  "rasa_core": "0.12.4",
+  "python": "3.6.3",
   "max_histories": [
+    5,
     null,
-    3,
-    3
+    5,
+    2
   ],
   "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
   "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
     "rasa_core.policies.fallback.FallbackPolicy",
     "rasa_core.policies.memoization.MemoizationPolicy",
-    "rasa_core.policies.keras_policy.KerasPolicy"
-  ]
+    "rasa_core.policies.form_policy.FormPolicy"
+  ],
+  "trained_at": "20190212-114206"
 }

@@ -8,8 +8,14 @@ intents:
 - rec_perfume
 - price_perfume
 - accord_perfume
+- silage_perfume
 - like_suggestion
 - dislike_suggestion
+- quick_suggest
+- take_quiz
+- try_again
+- one_step_suggestion
+- dont_try_again
 
 
 entities:
@@ -20,6 +26,7 @@ entities:
 - price_above
 - price_below
 - price_range
+- sillage
 
 
 
@@ -61,6 +68,7 @@ actions:
 - utter_name
 - utter_thanks
 - utter_greet
+- utter_suggestion_options
 - utter_goodbye
 - utter_perfume_desc
 - utter_ask_perf_price
@@ -69,16 +77,31 @@ actions:
 - utter_feedback_suggestion
 - utter_additional_info
 - utter_ask_trail
+- utter_working_on_it
+- utter_ask_try_again
 
 
 templates:
   utter_name:
   - text: "Hey there! Tell me your name."
+  
+  utter_working_on_it:
+  - text: "This option is not available yet, i am working on it."
 
   utter_greet:
-  - text: "Nice to you meet you {name}. How can I help?"
+  - text: "Nice to you meet you {name}."
+
+  utter_suggestion_options:
+  - text: " How do you want me to suggest a perfume?"
+    buttons:
+    - title: "Quick Suggest"
+      payload: '/quick_suggest'
+    
+    - title: "Take a quiz"
+      payload: '/take_quiz'
 
   utter_goodbye:
+  
   - text: "Talk to you later!"
   
   utter_thanks:
@@ -120,6 +143,18 @@ templates:
       payload: '/silage_perfume{"sillage": "Medium"}'
     - title: "Low"
       payload: '/silage_perfume{"sillage": "Low"}'
+
+
+  utter_ask_try_again:
+  - text: "Do you wanna try again ?"
+    buttons:
+    - title: "Yes"
+      payload: '/try_again'
+    - title: "No"
+      payload: '/dont_try_again'
+
+
+
 
 
   

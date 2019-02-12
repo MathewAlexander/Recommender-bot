@@ -4,6 +4,7 @@ actions:
 - utter_name
 - utter_thanks
 - utter_greet
+- utter_suggestion_options
 - utter_goodbye
 - utter_perfume_desc
 - utter_ask_perf_price
@@ -12,6 +13,8 @@ actions:
 - utter_feedback_suggestion
 - utter_additional_info
 - utter_ask_trail
+- utter_working_on_it
+- utter_ask_try_again
 config:
   store_entities_as_slots: true
 entities:
@@ -22,6 +25,8 @@ entities:
 - price_above
 - price_below
 - price_range
+- sillage
+forms: []
 intents:
 - greet:
     use_entities: true
@@ -41,12 +46,25 @@ intents:
     use_entities: true
 - accord_perfume:
     use_entities: true
+- silage_perfume:
+    use_entities: true
 - like_suggestion:
     use_entities: true
 - dislike_suggestion:
     use_entities: true
+- quick_suggest:
+    use_entities: true
+- take_quiz:
+    use_entities: true
+- try_again:
+    use_entities: true
+- one_step_suggestion:
+    use_entities: true
+- dont_try_again:
+    use_entities: true
 slots:
   accord:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.CategoricalSlot
     values:
@@ -59,21 +77,27 @@ slots:
     - spicy
     - sweet
   gender:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
   name:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
   price_above:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
   price_below:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
   price_range:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
   sillage:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.CategoricalSlot
     values:
@@ -81,6 +105,7 @@ slots:
     - medium
     - low
   time:
+    auto_fill: true
     initial_value: null
     type: rasa_core.slots.TextSlot
 templates:
@@ -114,16 +139,32 @@ templates:
     - payload: '/silage_perfume{"sillage": "Low"}'
       title: Low
     text: What about the trail left by the perfume ?
+  utter_ask_try_again:
+  - buttons:
+    - payload: /try_again
+      title: 'Yes'
+    - payload: /dont_try_again
+      title: 'No'
+    text: Do you wanna try again ?
   utter_feedback_suggestion:
   - text: Are you satisfied with the results ?
   utter_goodbye:
   - text: Talk to you later!
   utter_greet:
-  - text: Nice to you meet you {name}. How can I help?
+  - text: Nice to you meet you {name}.
   utter_name:
   - text: Hey there! Tell me your name.
   utter_perfume_desc:
   - text: 'above {price_above} and below {price_below} or in price range of  {price_range}
       with {accord} flavour right ? '
+  utter_suggestion_options:
+  - buttons:
+    - payload: /quick_suggest
+      title: Quick Suggest
+    - payload: /take_quiz
+      title: Take a quiz
+    text: ' How do you want me to suggest a perfume?'
   utter_thanks:
   - text: My pleasure.
+  utter_working_on_it:
+  - text: This option is not available yet, i am working on it.
